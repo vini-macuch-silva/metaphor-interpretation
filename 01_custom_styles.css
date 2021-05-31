@@ -1,0 +1,53 @@
+/* In this file you can overwrite/extend the given magpie-styles or declare your own ones */
+
+/* Example of extending a given magpie-style */
+
+.magpie-view-question {
+    font-size: 17px;
+    max-height: 100px;
+}
+
+.magpie-view-question.magpie-view-qud {
+    font-size: 24px;
+}
+
+.magpie-view-stimulus-container {
+    height: auto;
+    max-height: 100px;
+}
+
+/* Display all titles in red */
+/*.magpie-view-title {
+    color: red;
+}*/
+
+/* Example of declaring your own style */
+.custom-border {
+   border: 1px solid powderblue;
+}
+
+
+input[type="radio"]:checked + label {
+  border: 6px solid #8b0000;
+}
+/*
+input[name="answer1"]:checked + label {
+  border: 4px DarkRed;
+}
+
+input[name="rating"]:checked + label {
+  border: 4px DarkRed;
+} */
+
+/*
+.magpie-response-rating:checked+label {
+    border: 4px solid black;
+}
+*/
+.response-table  {
+  display: flex;
+  align-items: center;
+  display: block;
+  margin: 5px;
+
+}
