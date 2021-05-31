@@ -1,3 +1,3 @@
-# Non-actual 'actual': Expectations for upcoming figurative language arise from cues about message truth - Norming task
+# *He is a real weasel*: Interpreting metaphors modified by modal stance adjectives in English
 
-Forced-choice task part of a study by Macuch-Silva, Roberts, & Rohde. More information about the study can be found on the project page on the Open Science Framework (https://osf.io/5v9xf/).
+Rating task part of a study by Doganc & Macuch-Silva. More information about the study can be found on the project page on the Open Science Framework (https://osf.io/5v9xf/).
